@@ -9,3 +9,5 @@ Why does the Omega-Ultimate-Weapon-Project exists?
 How does the Omega-Ultimate-Weapon-Project disintegrate people?
 -███ ████ █████ ███████ ████ █████ ████
 
+
+I'm going to create feature-resources fr
