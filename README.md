@@ -13,3 +13,6 @@ How does the Omega-Ultimate-Weapon-Project disintegrate people?
 -Do not throw yourself in the Omega-Ultimate-Weapon-Project.
 
 I'm going to create feature-resources fr
+
+creating creating creating
+print("Shot laser")
